@@ -2,7 +2,7 @@
 
 I'm Ryan, an aspiring **AI Engineer** currently seeking internship opportunities.
 
-I enjoy building programming projects in python, whilst trying in JavaScript. I'm constantly exploring new techniques to improve how I develop systems, since I love creating things digitally.
+I enjoy building programming projects in **Python,** whilst trying in **JavaScript.** I'm constantly exploring new techniques to improve how I develop systems, since I love creating things digitally.
 
 I have a strong understanding of **Object-Oriented Programming, Data Science, Machine Learning,** and **automation**. Always attempting to expand my knowledge even further.
 
