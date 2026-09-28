@@ -14,7 +14,7 @@ You can also find links to get to know me better on this page!
 
 ### **Fun Facts:**
 
-• I actively go to the gym
-• I drive a Ford Fiesta
-• I tend to make friends easy
-• I love cats
+- I actively go to the gym
+- I drive a Ford Fiesta
+- I tend to make friends easy
+- I love cats
