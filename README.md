@@ -6,7 +6,7 @@ I enjoy building programming projects in python, whilst trying in JavaScript. I'
 
 I have a strong understanding of **Object-Oriented Programming, Data Science, Machine Learning,** and **automation**. Always attempting to expand my knowledge even further.
 
-You'll find a few pinned projects on my profile, with my personal, utmost favourite being the Outlook Simulator. I've built many programs, but only showcase what I believe are the best.
+You'll find a few pinned projects on my profile, with my personal, utmost favourite being the **Outlook Simulator.** I've built many programs, but only showcase what I believe are the best.
 
 You can also find links to get to know me better on this page!
 
