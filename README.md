@@ -1,4 +1,4 @@
-## Hi there! ✌️
+## Hello there! ✌️
 
 I'm Ryan, an aspiring **AI Engineer** currently seeking internship opportunities.
 
