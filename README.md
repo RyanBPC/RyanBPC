@@ -6,7 +6,7 @@ I do most of my code in **Python**, and I'm slowly making my way through **JavaS
 
 ---
 
-## What I work with
+### What I work with
 
 **Languages:** Python, JavaScript, SQL
 **AI:** LLMs, embeddings, prompt engineering, API handling
@@ -15,22 +15,26 @@ I do most of my code in **Python**, and I'm slowly making my way through **JavaS
 
 ---
 
-## Projects
+### Projects
 
 My favourite by far is the **Outlook Simulator**. It's a Python take on Outlook with mailbox parsing, custom email classes, command-line controls and encryption logging. I put a lot of hours into this one so go take a look at it!
-**Outlook Simulator Link:** https://github.com/RyanBPC/Outlook_Simulator
 
 I'm also building a **Custom Cars** website through different LLMs on Claude AI. Mostly using Opus 5.5. This website allows you to customize a cars specifications however you like, but is still a work in progress. I also built a **AI Chatbot** that runs in the terminal and talks to Groq's AI API.
-**Custom Cars Link:** https://github.com/RyanBPC/Custom_Cars
-**AI Chatbot Link:** https://github.com/RyanBPC/AI_Chatbot
 
-I've built plenty of more, but those don't need to be seen.
+I've built plenty of more, but those don't need to be seen. 😔
 
 ---
 
-### **Fun Facts:**
+### Currently improving
 
-- I actively go to the gym
-- I drive a Ford Fiesta
-- I tend to make friends easy
-- I love cats
+- Learning **deep learning** and **transfer learning**, with **neural networks**, getting my head around how they actually work in code
+- Getting into **data analysis**, using **SQL** to dig through databases and seeing what I can actually find in real datasets
+- Messing around with different **AI models**
+
+---
+
+### Fun facts
+
+- I'm Vice President of the **AI Builders Society** at my uni, where we run hackathons and work on AI generated projects
+- You'll almost all the time, find me at the gym when I'm not coding
+- I'm a massive cat person 😼
