@@ -1,4 +1,4 @@
-## Hello there! ✌️
+# Hello there! ✌️
 
 I'm Ryan, a 2nd year **Computer Science (Artificial Intelligence)** Undergraduate at the **University of Greenwich** and an aspiring **AI Engineer** and **Data Analyst**. Right now I'm on the hunt for an internship for summer 2027, so if you're hiring, HIRE ME!
 
@@ -6,7 +6,7 @@ I do most of my code in **Python**, and I'm slowly making my way through **JavaS
 
 ---
 
-### What I work with
+## What I work with
 
 - **Languages:** Python, JavaScript, SQL
 - **AI:** LLMs, embeddings, prompt engineering, API handling
@@ -15,7 +15,7 @@ I do most of my code in **Python**, and I'm slowly making my way through **JavaS
 
 ---
 
-### Projects
+## Projects
 
 My favourite by far is the **Outlook Simulator**. It's a Python take on Outlook with mailbox parsing, custom email classes, command-line controls and encryption logging. I put a lot of hours into this one so go take a look at it!
 
@@ -25,7 +25,7 @@ I've built plenty more, but those don't need to be seen. 😔
 
 ---
 
-### Currently improving
+## Currently improving
 
 - Learning **deep learning** and **transfer learning**, with **neural networks**, getting my head around how they actually work in code
 - Getting into **data analysis**, using **SQL** to dig through databases and seeing what I can actually find in real datasets
@@ -33,7 +33,7 @@ I've built plenty more, but those don't need to be seen. 😔
 
 ---
 
-### Fun facts
+## Fun facts
 
 - I'm Vice President of the **AI Builders Society** at my uni, where we run hackathons and work on AI generated projects
 - You'll almost all the time, find me at the gym when I'm not coding
